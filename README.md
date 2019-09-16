@@ -1,5 +1,7 @@
 # NGC-6121
 
+[View Here]()
+
 Astrometric analysis of globular cluster Messier 4. Using a two dimensional gaussian mixture model, the stellar members of the cluster are extracted solely using on sky movement, or proper motions. This could potentially serve as a way to automate the detection of stellar moving groups, being either open/globular clusters or tidal streams. I also analyze the core members kinematic data in both galactocentric and action-angle coordinate systems. Suprisingly, I accidently find a high velocity halo star visiting the cluster on its way around the galactic buldge.
 
 Despite having excellent $(u,v,w)$ data, the parallaxes have high errors due to the distance of the cluster and instrumental limitations. When plotted in cartesian coordinates this becomes apparent as the cluster takes an elongated shape. This is also an interesting artifact as one would have to partition the galaxy in elongated spherical coordinates in which $d\rho$ is proportional to the parallax error at some distance in order to encase an entire cluster.
