@@ -1,6 +1,6 @@
 # NGC-6121
 
-[View Here]()
+[View Here](https://nbviewer.jupyter.org/github/lrbuechner/NGC-6121/blob/master/Messier%204.ipynb)
 
 Astrometric analysis of globular cluster Messier 4. Using a two dimensional gaussian mixture model, the stellar members of the cluster are extracted solely using on sky movement, or proper motions. This could potentially serve as a way to automate the detection of stellar moving groups, being either open/globular clusters or tidal streams. I also analyze the core members kinematic data in both galactocentric and action-angle coordinate systems. Suprisingly, I accidently find a high velocity halo star visiting the cluster on its way around the galactic buldge.
 
